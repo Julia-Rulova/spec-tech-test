@@ -22,7 +22,7 @@ function Input({name, label, value, onChange, type, changeRotate}) {
         <div className="input">
             <label className="input__label" htmlFor={name}>{label}</label>
             {
-                name === "phone"
+                name === "phone" || name === "re-phone"
                 ? 
                 <ReactInputMask className="input__item" id={name} mask="+7 (999) 999-99-99" maskChar="_" required value={value} onChange={onChange}></ReactInputMask>
                 :

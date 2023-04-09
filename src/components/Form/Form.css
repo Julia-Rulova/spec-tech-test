@@ -34,3 +34,11 @@
     margin-top: 75px;
     cursor: pointer;
 }
+
+@media screen and (max-width: 550px) {
+    .form {
+        width: 95%;
+        margin-top: 193px;
+        padding: 0 10px 43px;
+    }
+}

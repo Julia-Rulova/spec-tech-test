@@ -1,5 +1,7 @@
 # Тестовое задание для компании Спецтех Фаворит
 
+#### Ссылка на [сайт](https://spec-tech-test.vercel.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
